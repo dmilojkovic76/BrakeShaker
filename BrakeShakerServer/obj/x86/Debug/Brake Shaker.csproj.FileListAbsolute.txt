@@ -1,0 +1,25 @@
+K:\Documents\FFB Pedale\Brake_Shaker\Brake Shaker app\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Documents\FFB Pedale\Brake_Shaker\Brake Shaker app\obj\x86\Debug\BrakeShaker.Form1.resources
+K:\Documents\FFB Pedale\Brake_Shaker\Brake Shaker app\obj\x86\Debug\BrakeShaker.Form2.resources
+K:\Documents\FFB Pedale\Brake_Shaker\Brake Shaker app\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Documents\FFB Pedale\Brake_Shaker\Brake Shaker app\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Documents\FFB Pedale\Brake_Shaker\Brake Shaker app\bin\Debug\BrakeShaker.exe
+K:\Documents\FFB Pedale\Brake_Shaker\Brake Shaker app\bin\Debug\BrakeShaker.pdb
+K:\Documents\FFB Pedale\Brake_Shaker\Brake Shaker app\obj\x86\Debug\BrakeShaker.exe
+K:\Documents\FFB Pedale\Brake_Shaker\Brake Shaker app\obj\x86\Debug\BrakeShaker.pdb
+E:\Documents\SIM projects\Brake_Shaker\Brake Shaker app\obj\x86\Debug\BrakeShaker.exe
+E:\Documents\SIM projects\Brake_Shaker\Brake Shaker app\obj\x86\Debug\BrakeShaker.pdb
+E:\Documents\SIM projects\Brake_Shaker\Brake Shaker app\bin\Debug\BrakeShaker.exe
+E:\Documents\SIM projects\Brake_Shaker\Brake Shaker app\bin\Debug\BrakeShaker.pdb
+E:\Documents\SIM projects\Brake_Shaker\Brake Shaker app\obj\x86\Debug\BrakeShaker.Form1.resources
+E:\Documents\SIM projects\Brake_Shaker\Brake Shaker app\obj\x86\Debug\BrakeShaker.Form2.resources
+E:\Documents\SIM projects\Brake_Shaker\Brake Shaker app\obj\x86\Debug\Brake Shaker.csproj.GenerateResource.Cache
+E:\Documents\SIM projects\Brake_Shaker\Brake Shaker app\obj\x86\Debug\Brake Shaker.csprojResolveAssemblyReference.cache
+H:\Documents\SIM projects\Brake_Shaker\Brake Shaker Server\obj\x86\Debug\BrakeShaker.exe
+H:\Documents\SIM projects\Brake_Shaker\Brake Shaker Server\obj\x86\Debug\BrakeShaker.pdb
+H:\Documents\SIM projects\Brake_Shaker\Brake Shaker Server\bin\Debug\BrakeShaker.exe
+H:\Documents\SIM projects\Brake_Shaker\Brake Shaker Server\bin\Debug\BrakeShaker.pdb
+H:\Documents\SIM projects\Brake_Shaker\Brake Shaker Server\obj\x86\Debug\Brake Shaker.csprojResolveAssemblyReference.cache
+H:\Documents\SIM projects\Brake_Shaker\Brake Shaker Server\obj\x86\Debug\BrakeShaker.Form1.resources
+H:\Documents\SIM projects\Brake_Shaker\Brake Shaker Server\obj\x86\Debug\BrakeShaker.Form2.resources
+H:\Documents\SIM projects\Brake_Shaker\Brake Shaker Server\obj\x86\Debug\Brake Shaker.csproj.GenerateResource.Cache
